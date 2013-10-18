@@ -1,0 +1,54 @@
+#twitter_block{
+	font-size:11px;
+	margin-bottom:10px;
+	overflow:hidden;
+}
+
+#twitter_block p{
+	margin:0;
+	padding:0;
+}
+#twitter_entries .twitter_avatar{
+	float:left;
+	width:25px;
+	height:25px;
+}
+#twitter_entries .twitter_avatar img{
+	width:25px;
+	height:25px;
+}
+#twitter_entries .twitter_text{
+	float:right;
+	width:210px;
+}
+#twitter_logo{
+	height:30px;
+	background:url("images/icon2.png") no-repeat 0 0;
+}
+#twitter_entries{
+	background:#fff;
+	padding:7px;
+	overflow:hidden;
+}
+#twitter_follow a{
+	font-weight:bold;
+}
+#twitter_entries .twitter_entry{
+	margin-bottom:30px !important;
+}
+.twitter_entry a{
+	color:#3083B0 !important;
+}
+.twitter_entry a:hover{
+	border-bottom:1px dotted !important;
+}
+#twitter_refresh_link{
+	float:right;
+}
+#twitter_follow_link{
+	float:left;
+}
+.twitter_loading{
+	background:url(images/loading3.gif) no-repeat left center;
+	padding-left:20px;
+}
